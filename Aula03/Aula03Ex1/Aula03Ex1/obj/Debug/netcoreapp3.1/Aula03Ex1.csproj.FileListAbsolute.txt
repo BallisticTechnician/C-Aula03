@@ -1,0 +1,13 @@
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\obj\Debug\netcoreapp3.1\Aula03Ex1.csproj.AssemblyReference.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\obj\Debug\netcoreapp3.1\Aula03Ex1.AssemblyInfoInputs.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\obj\Debug\netcoreapp3.1\Aula03Ex1.AssemblyInfo.cs
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\obj\Debug\netcoreapp3.1\Aula03Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\bin\Debug\netcoreapp3.1\Aula03Ex1.exe
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\bin\Debug\netcoreapp3.1\Aula03Ex1.deps.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\bin\Debug\netcoreapp3.1\Aula03Ex1.runtimeconfig.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\bin\Debug\netcoreapp3.1\Aula03Ex1.runtimeconfig.dev.json
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\bin\Debug\netcoreapp3.1\Aula03Ex1.dll
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\bin\Debug\netcoreapp3.1\Aula03Ex1.pdb
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\obj\Debug\netcoreapp3.1\Aula03Ex1.dll
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\obj\Debug\netcoreapp3.1\Aula03Ex1.pdb
+C:\Users\Celso Campos\Desktop\Dev\C#\Projetos\Aula03\Aula03Ex1\Aula03Ex1\obj\Debug\netcoreapp3.1\Aula03Ex1.genruntimeconfig.cache
